@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github.com/Femto-0/Femto-0/assets/85410405/314c8400-2f50-4359-9720-6c69bf722c69
+https://user-images.githubusercontent.com/85410405/274793511-314c8400-2f50-4359-9720-6c69bf722c69.gif
 🚀 AI & Machine Learning Enthusiast
 💻 Java & JavaScript Developer
 🌍 Exploring the depths of Data Science
