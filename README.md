@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🚀 AI & Machine Learning Enthusiast
+💻 Java & JavaScript Developer
+🌍 Exploring the depths of Data Science
+
+
 <!--
 **Femto-0/Femto-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
