@@ -1,7 +1,7 @@
 
 ![f53601133f236d1cb167ac19f05a3d60](https://github.com/Femto-0/Femto-0/assets/85410405/e7627920-8f12-40bf-98af-4fcf8fcf5c60)
 🚀 AI & Machine Learning Enthusiast
-💻 Java & JavaScript Developer
+💻 Java & Python Developer
 🌍 Exploring the depths of Data Science
 
 
